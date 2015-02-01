@@ -21,6 +21,9 @@
     <background>background\bg_beach_temp</background>
   </backgrounds>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_olaf_right</object>
+  </objects>
   <rooms name="rooms">
     <room>rooms\rm_beach</room>
   </rooms>
